@@ -1,0 +1,86 @@
+*
+{
+    background: gray;
+    /*border: 1px solid lightpink;*/
+    margin: 0 15%;
+}
+body
+{
+    margin-top: 15%;
+}
+
+.login
+{
+    background: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 50%;
+    height: 50%;
+    margin: 0;
+    text-align: center;
+}
+.bold
+{
+    border: 2px;
+    background: white;
+    width: 100%;
+    float: left;
+    margin: 0;
+    text-align:center;
+ font-size: xx-small;
+}
+
+.email
+{
+    font-size: x-small;
+    border: 1px;
+    border-top: 0;
+    background: white;
+    padding-top: 5%;
+    width: 100%;
+    height: 20%;
+    margin: 0;
+
+}
+.span
+{
+    background: white;
+    margin: 0;
+    font-weight: bold;
+}
+.text
+{
+    clear: both;
+    border-top: 2px solid lightgrey;
+    background: white;
+    margin: 0;
+    text-align: left;
+    width: 100%;
+    font-size: x-small;
+}
+.password
+{
+
+    border: 1px ;
+    margin: 0;
+    border-right: 1px solid lightgray;
+    border-left: 0;
+    background: white;
+    padding-top: 5%;
+    padding-right: 1px;
+    border-top: 0;
+    width: 49%;
+    height: 50%;
+}
+.reset
+{
+    background: white;
+    float: right;
+    margin: 0;
+    text-align: right;
+}
+.passwordtext
+{
+    margin: 0;
+    background: white;
+}

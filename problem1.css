@@ -1,0 +1,39 @@
+*
+{
+    /*border: 1px solid lightblue;*/
+}
+body
+{
+    background: blue;
+    margin: 15% 30%;
+    text-align: left;
+}
+
+aside
+{
+    background: gray;
+}
+h5
+{
+    margin-left: 15px;
+    border-bottom: 2px solid blue;
+    width: 20%;
+}
+input
+{
+    margin-left: 9%;
+    text-align: center;
+    width: 80%;
+}
+
+article
+{
+    margin-top: 10%;
+
+}
+footer
+{
+    border-top: 3px solid lightblue;
+    margin-top: 5%;
+    text-align: center;
+}
